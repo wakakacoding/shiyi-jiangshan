@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wakakacoding.github.io/shiyi-jiangshan/sitemap.xml
